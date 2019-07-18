@@ -1,0 +1,19 @@
+.optionContainer {
+    vertical-align: top;
+}
+
+.timeBlock {
+    font-size: 20px;
+    color: darkblue;
+    min-width: 200px;
+    padding-left:15px;
+}
+
+.mealName {
+    font-size: 20px;
+    padding-left:15px;
+}
+
+.userNameSelection {
+    min-width: 250px;
+}
